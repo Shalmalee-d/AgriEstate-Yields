@@ -1,0 +1,16 @@
+land_id,temperature_avg_c,annual_rainfall_mm,humidity_avg_pct,soil_ph,data_status
+PUNE001,27.1,720,61,7.0,Demo/estimated
+PUNE002,27.1,720,61,7.1,Demo/estimated
+PUNE003,27.0,715,60,7.0,Demo/estimated
+PUNE004,27.2,730,60,7.2,Demo/estimated
+PUNE005,27.2,725,59,7.1,Demo/estimated
+PUNE006,27.2,725,59,7.0,Demo/estimated
+PUNE007,27.1,720,58,7.0,Demo/estimated
+PUNE008,27.0,710,57,7.2,Demo/estimated
+PUNE009,27.0,710,57,7.1,Demo/estimated
+PUNE010,26.9,705,56,7.0,Demo/estimated
+PUNE011,26.8,700,58,7.2,Demo/estimated
+PUNE012,26.9,705,57,7.1,Demo/estimated
+PUNE013,26.8,700,59,7.0,Demo/estimated
+PUNE014,27.0,715,58,7.1,Demo/estimated
+PUNE015,26.9,710,57,7.0,Demo/estimated

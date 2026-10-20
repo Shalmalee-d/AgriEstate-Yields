@@ -1,0 +1,16 @@
+land_id,name,land_type,current_usage,area_sqft,sunlight_hours,water_access,market_distance_km,latitude,longitude
+PUNE001,Lohgaon Open Plot A,Plot,Vacant,8500,8.6,High,4.2,18.6052,73.9167
+PUNE002,Lohgaon Open Plot B,Plot,Vacant,7200,8.3,Medium,3.8,18.6008,73.912
+PUNE003,Dhanori Vacant Plot,Plot,Vacant,6800,8.1,Medium,3.1,18.584,73.905
+PUNE004,Wagholi Edge Plot,Plot,Vacant,9100,8.8,High,6.0,18.582,73.986
+PUNE005,Kharadi Open Parcel,Plot,Underutilized,5600,8.0,Medium,2.7,18.551,73.939
+PUNE006,Mundhwa Open Parcel,Plot,Vacant,6400,7.9,High,2.4,18.532,73.932
+PUNE007,Hadapsar Open Plot,Plot,Vacant,7800,8.2,High,3.5,18.508,73.926
+PUNE008,Undri Open Plot,Plot,Vacant,8400,8.5,Medium,4.8,18.459,73.915
+PUNE009,Mohammadwadi Open Plot,Plot,Vacant,6100,8.4,Medium,4.4,18.475,73.904
+PUNE010,Dhankawadi Open Parcel,Plot,Underutilized,4700,7.6,Medium,2.9,18.462,73.867
+PUNE011,Ambegaon Open Plot,Plot,Vacant,9300,8.7,High,5.2,18.456,73.846
+PUNE012,Dhayari Open Plot,Plot,Vacant,7500,8.0,High,4.0,18.447,73.806
+PUNE013,Shivane Open Parcel,Plot,Underutilized,5200,7.7,Medium,3.3,18.474,73.773
+PUNE014,Kondhwa Open Plot,Plot,Vacant,6900,7.9,High,2.6,18.466,73.889
+PUNE015,Katraj Open Plot,Plot,Vacant,8000,8.1,Medium,4.1,18.438,73.865
